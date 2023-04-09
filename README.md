@@ -1,3 +1,5 @@
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/pinoycolada/github-readme-stats)
+
 - 👋 Hi, I’m @PinoyColada
 - 👀 I’m interested in a software engineer job position!
 - 🌱 I’m currently learning more about the Spring Framework.
