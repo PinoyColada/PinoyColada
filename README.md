@@ -1,5 +1,3 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pinoycolada&layout=compact&theme=dracula)](https://github.com/pinoycolada)
-
 - 👋 Hi, I’m @PinoyColada
 - 👀 I’m interested in a software engineer job position!
 - 🌱 I’m currently learning more about the Spring Framework.
@@ -7,6 +5,9 @@
 - 📫 How to reach me ...
 - Email: ryan.hatamosa@gmail.com
 - LinkedIn: https://www.linkedin.com/in/ryan-hatamosa-ab9989156/
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pinoycolada&layout=compact)
+![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=pinoycolada&show_icons=true&theme=dracula)
 
 <!---
 PinoyColada/PinoyColada is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
