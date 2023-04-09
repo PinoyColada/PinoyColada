@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pinoycolada&layout=compact)](https://github.com/pinoycolada)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pinoycolada&layout=compact&theme=dracula)](https://github.com/pinoycolada)
 
 - 👋 Hi, I’m @PinoyColada
 - 👀 I’m interested in a software engineer job position!
