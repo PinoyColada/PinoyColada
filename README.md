@@ -2,7 +2,7 @@
 👋 Hi, I’m @PinoyColada <br>
 👀 I’m interested in a software engineer job position! <br>
 🌱 I’m currently learning more about the fundamentals of Next.js <br>
-👥 I’m looking to collaborate on how to becoming a better programmer. <br>
+👥 I’m looking to collaborate on how to becoming a better programmer and team projects. <br>
 📫 How to reach me ... <br>
 Email: ryan.hatamosa@gmail.com <br>
 LinkedIn: https://www.linkedin.com/in/ryan-hatamosa-ab9989156/ <br>
