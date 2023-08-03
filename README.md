@@ -1,7 +1,7 @@
 <div align="center">
 👋 Hi, I’m @PinoyColada <br>
 👀 I’m interested in a software engineer job position! <br>
-🌱 I’m currently learning more about the Spring <br>
+🌱 I’m currently learning more about Next.js and Spring <br>
 👥 I’m looking to collaborate on how to becoming a better programmer and team projects. <br>
 📫 How to reach me ... <br>
 Email: ryan.hatamosa@gmail.com <br>
